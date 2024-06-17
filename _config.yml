@@ -1,8 +1,9 @@
 ###########
 # site.title
 
-title: jekyllBear
-description: a minimal, text focused blog theme
+title: Personal page of Štěpán Pressl
+email: pressste@fel.cvut.cz
+description: Student at FEE CTU
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
 url: "https://knhash.in/jekyllBear" # the base hostname & protocol for your site
 # host: 0.0.0.0
@@ -57,11 +58,9 @@ exclude: [vendor]
 
 Blog: /blog
 
+
 # Add general links to site pages here
 links:
   Resume: /assets/resume.pdf
+  Personal: /personal
   
-
-# Add links for more focus here
-special_links:
-  "Search": https://duckduckgo.com
