@@ -4,6 +4,6 @@ title: Contacts
 permalink: /contact
 ---
 
-email: `pressl.stepan@gmail.com`, `pressste@fel.cvut.cz`
+email: `pressste@fel.cvut.cz` (the school email)
 
 github: [zdebanos](https://github.com/zdebanos)

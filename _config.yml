@@ -1,7 +1,7 @@
 ###########
 # site.title
 
-title: Personal page of Štěpán Pressl
+title: Personal page of Steve (zdebanos)
 email: pressste@fel.cvut.cz
 description: Student at FEE CTU
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
@@ -56,11 +56,8 @@ exclude:
 
 exclude: [vendor]
 
-Blog: /blog
-
-
 # Add general links to site pages here
 links:
-  Trips: /trips/trips
   Contact: /contact
+  Teaching: /teaching/root
   
