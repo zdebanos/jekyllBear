@@ -2,7 +2,7 @@
 layout: blog
 title: Blog
 description: Here be writings
-permalink: /blog
+permalink: /activities
 ---
 
-Here is the blog.
+TBD.

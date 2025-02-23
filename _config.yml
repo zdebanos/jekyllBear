@@ -29,26 +29,9 @@ compress_html:
   ignore:
     envs: []
 
-# sass:
-#   sass_dir: css
-#   style:    compressed
-
-collections:
-  my_tags:
-    output: true
-    permalink: /tagged/:slug/
-defaults:
-  -
-    scope:
-      path: ""
-      type: my_tags
-    values:
-      layout: tagged
-
-# baseurl: ""
-permalink: /blog/:slug
-timezone: America/New_York
-future: false
+sass:
+ sass_dir: css
+ style:    compressed
 
 exclude:
 - README.md
@@ -56,8 +39,8 @@ exclude:
 
 exclude: [vendor]
 
-# Add general links to site pages here
 links:
-  Contact: /contact
-  Teaching: /teaching/root
+  Activities: /activities.html
+  Contact:    /contact.html
+  Teaching:   /teaching/root.html
   
