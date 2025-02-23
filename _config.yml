@@ -5,7 +5,7 @@ title: Personal page of Steve (zdebanos)
 email: pressste@fel.cvut.cz
 description: Student at FEE CTU
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
-url: "https://knhash.in/jekyllBear" # the base hostname & protocol for your site
+url: "http://zdebanos.cz" # the base hostname & protocol for your site
 # host: 0.0.0.0
 
 
