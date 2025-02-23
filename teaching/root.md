@@ -6,7 +6,7 @@ permalink: /teaching/root
 
 This webpage shows all my teaching activies at the Czech Technical University.
 
-Feel free to browser for extra materials here.
+Feel free to browse for extra materials here.
 
 Students who attend my seminars are recommended to follow this page.
 
