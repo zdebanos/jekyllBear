@@ -12,4 +12,4 @@ Binary to decimal conversion and vice versa, hexadecimal numbers, two's compleme
 C binary operators. [Slides](../../assets/APO-Sem1.pdf).
 
 ## Lab2 Examples
-Multiplication, IEEE 754. [Slides](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Multiplication, IEEE 754. [Slides](../../assets/APO-Sem2.pdf)
