@@ -13,3 +13,9 @@ C binary operators. [Slides](../../assets/APO-Sem1.pdf).
 
 ## Lab2 Examples
 Multiplication, IEEE 754. [Slides](../../assets/APO-Sem2.pdf)
+
+## Lab7 Examples
+Jump predictions. [Slides](../../assets/APO-Sem7.pdf)
+
+## Lab9
+Virtual memory, OS syscalls. [Slides](../../assets/APO-Sem9.pdf)
