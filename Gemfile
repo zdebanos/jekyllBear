@@ -6,3 +6,5 @@ gemspec
 gem "webrick", "~> 1.8"
 
 gem "bigdecimal", "~> 3.1"
+
+gem "csv", "~> 3.3"
