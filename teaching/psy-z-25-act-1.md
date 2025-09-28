@@ -12,14 +12,10 @@ permalink: /teaching/psy-z-25-act-1
 - vyzkoušíte si správu projektu
 - naučíte se vygenerovat SSH klíč
 
-## Bodové ohodnocení
-Co mě přidáte jako developera do projektu,
-budu schopen prohlížet vaši práci. Pokud budete mít vše splněno, tak vám dám 2 body.
-
 ## Shrnutí úkolu
 1. Nainstalujte si Git na váš počítač, návod [zde](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 2. Vytvořte prázdný projekt na školním [Gitlabu](https://gitlab.fel.cvut.cz) se jménem
-   `psy-activities`.
+   `psy-git-repo`.
 3. Vygenerujte si sadu SSH klíčů pro verzování a přidejte jej do Gitlabu.
 4. Tento prázdný projekt si naklonujete a přidáte do něj pouze jednoduché `README.md`
    s nějakým vašim popisem. Tento commit bude obsahovat zprávu
@@ -27,11 +23,28 @@ budu schopen prohlížet vaši práci. Pokud budete mít vše splněno, tak vám
    `README.md` bude napsané v jazyku Markdown a bude obsahovat
    minimálně jeden nadpis, popis vašeho repositáře, a hyperlink
    odkazující se na stránku `psy.pages.fel.cvut.cz`.
-   Vytvoříte 
+   Vytvoříte také tabulku (ale napsanou v markdownu!), která vás představuje, např.
+```
+++++++++++++++++++++++++++++++++++++++
+| Jméno         | Vlastík Plamínek   |
+--------------------------------------
+| Věk           | 23                 |
+--------------------------------------
+| Záliby        | Vaření z ničeho    |
+--------------------------------------
+| Studijní obor | Otevřená ezoterika |
+++++++++++++++++++++++++++++++++++++++
+```
 6. Do projektu mě přidáte jako developera.
 
 Co se týče GITu, budeme dopředu oproti sylabu předmětu. Ale zde budeme předpokládat
 nejzákladnější práci, která se může hodit už v prvním semestru. Níže najdete nápovědu.
+Také budeme předpokládat, že budeme tento repositář používat pro další práci.
+Do repositáře také můžete (a doporučuju) verzovat cokoliv, co chcete k PSY.
+
+## Bodové ohodnocení
+Co mě přidáte jako developera do projektu,
+budu schopen prohlížet vaši práci. Pokud budete mít vše splněno, tak vám dám 2 body.
 
 ## Návod
 ### Balíčkovací systémy
@@ -40,7 +53,7 @@ pomocí centrálního balíčkovacího systému. To má obrovskou výhodu,
 že stahujete (snad většinou) ověřené programy a umožňuje je centrálně
 spravovat. Na Ubuntu/Debian se používá `apt/apt-get`, na systémech
 od Red Hat se používá `dnf/yum`, na Arch Linux `pacman`.
-Mezi různými distribucemi se také používá `snap` či `flatpak`,
+Na všech distribucích se dá také použít `snap` či `flatpak`,
 které umožňují spouštět aplikace v izolovaných kontejnerech (s vlastním
 filesystemem).
 
