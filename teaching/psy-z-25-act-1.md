@@ -134,6 +134,22 @@ Jakýkoli stav vašeho repositáře vypíšete pomocí příkazu
 $ git status
 ```
 
+Pro nahrání commitu použijte
+```
+$ git push origin <jmeno-vetve>
+```
+či zkráceně jen
+```
+$ git push
+```
+Ve vašem případě budete pushovat do politicky korektní větve `main`,
+dřív do `master`.
+
+Pro synchronizace historie s vašim repositářem použijte
+```
+$ git pull
+```
+
 ### Markdown
 Jednoduchý značkovací jazyk pro psaní jednoduchých strukturovaných
 dokumentů s nadpisy, obrázky, linky, tabulkami, atp.
