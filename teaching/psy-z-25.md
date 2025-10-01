@@ -8,7 +8,17 @@ permalink: /teaching/psy-z-25
 Introduction, Bash basics. [Slides](../../assets/PSY-Sem1.pdf)
 
 ## Lab2
-Loops in Bash, Bash scripts, more Unix commands. [Slides](../../assets/PSY-Sem1.pdf)
+Loops in Bash, Bash scripts, more Unix commands. [Slides](../../assets/psy2-assets/PSY-Sem2.pdf)
+
+[Example 1](../../assets/psy2-assets/example1.sh)
+
+[Example 2](../../assets/psy2-assets/example2.sh)
+
+[Example 3](../../assets/psy2-assets/example3.sh)
+
+Wrong path referencing in [Example 4](../../assets/psy2-assets/example4.sh), fixed in [Example 4 Fixed](../../assets/psy2-assets/example4-fixed.sh)
+
+[Example 5](../../assets/psy2-assets/example5.sh)
 
 ## Activities for bonus points
 You can get up to 6 points. If there's a planned activity, I'll notify you
