@@ -20,6 +20,10 @@ Wrong path referencing in [Example 4](../../assets/psy2-assets/example4.sh), fix
 
 [Example 5](../../assets/psy2-assets/example5.sh)
 
+## Lab4
+Integer representation
+[Slides](../../assets/PSY-Sem4.pdf)
+
 ## Activities for bonus points
 You can get up to 6 points. If there's a planned activity, I'll notify you
 by email or personally. Since voluntary activities are planned by me,
