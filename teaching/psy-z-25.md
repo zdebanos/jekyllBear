@@ -21,8 +21,12 @@ Wrong path referencing in [Example 4](../../assets/psy2-assets/example4.sh), fix
 [Example 5](../../assets/psy2-assets/example5.sh)
 
 ## Lab4
-Integer representation
+Binary numbers and integers
 [Slides](../../assets/PSY-Sem4.pdf)
+
+## Lab5
+Two's complement, representation of numbers in C, Endianness, Intro to IEEE754
+[Slides](../../assets/PSY-Sem5.pdf)
 
 ## Activities for bonus points
 You can get up to 6 points. If there's a planned activity, I'll notify you
