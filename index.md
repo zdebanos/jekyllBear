@@ -7,16 +7,21 @@ title:
 
 # About me (in short)
 A student of graduate Cybernetics and robotics programme at FEE CTU in Prague.
-Currently enrolled at Purdue as an exchange student.
+Studied at Purdue in Indiana, USA in the 2026 Spring Semester.
 
 Deeply passionate about embedded development (firmware and PCB design as well)
-and real time operating systems, mostly NuttX. Professional interests
-include computer architectures, operating systems, control engineering
-and robotics.
+and real time operating systems, mostly NuttX (got several commits).
+Professional interests include computer architectures,
+operating systems, control engineering and robotics.
 
-Personal interrests: skiing, Après-ski, weight lifting a bit, definitely your favorite beer drinking specialist.
+Personal interrests: skiing, Après-ski,
+weight lifting a bit, definitely your favorite beer drinking specialist.
+I am also a huge movie fan (crime, mysterious). Ask me anything about
+the Godfather.
 
 # Wall of Shame: Chat Control Traitors
+
+> Update 09-08-2026: **Is still anyone talking about this? This needs to be reminded over and over.** 
 
 These traitors voted for spying of your private messages.
 
