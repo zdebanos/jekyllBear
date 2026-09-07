@@ -3,11 +3,6 @@ layout: page
 title:
 ---
 
-<div style="display: flex; width: 100%; gap: 10px">
-    <img src="./assets/pivecko.webp" alt="Image 1" style="width: 48%; height: auto;">
-    <img src="./assets/chodcipozor.webp" alt="Image 2" style="width: 52%; height: auto;">
-</div>
-
 {% include slideshow.html %}
 
 # About me (in short)
