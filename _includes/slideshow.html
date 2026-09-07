@@ -1,0 +1,56 @@
+<style>
+    .wz-slideshow {
+        --wz-img-w: 150px;
+        --wz-img-h: 267px;
+        --wz-gap: 12px;
+        position: relative;
+        width: 100%;
+        max-width: calc(var(--wz-img-w) * 2 + var(--wz-gap) * 2);
+        height: var(--wz-img-h);
+        margin: 20px auto;
+        overflow: hidden;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
+        background: #000;
+    }
+
+    .wz-slideshow-track {
+        display: flex;
+        gap: var(--wz-gap);
+        width: max-content;
+        height: 100%;
+        animation: wz-scroll 20s linear infinite;
+    }
+
+    .wz-slideshow:hover .wz-slideshow-track {
+        animation-play-state: paused;
+    }
+
+    .wz-slideshow-track img {
+        display: block;
+        width: var(--wz-img-w);
+        height: var(--wz-img-h);
+        object-fit: cover;
+        border-radius: 6px;
+        flex-shrink: 0;
+    }
+
+    @keyframes wz-scroll {
+        to {
+            transform: translateX(calc(-1 * (var(--wz-img-w) + var(--wz-gap)) * 4));
+        }
+    }
+</style>
+
+<div class="wz-slideshow">
+    <div class="wz-slideshow-track">
+        <img src="./assets/wholesomezdebanos1.jpg" alt="Wholesome photo 1">
+        <img src="./assets/wholesomezdebanos2.jpg" alt="Wholesome photo 2">
+        <img src="./assets/wholesomezdebanos3.jpg" alt="Wholesome photo 3">
+        <img src="./assets/wholesomezdebanos4.jpg" alt="Wholesome photo 4">
+        <img src="./assets/wholesomezdebanos1.jpg" alt="Wholesome photo 1" aria-hidden="true">
+        <img src="./assets/wholesomezdebanos2.jpg" alt="Wholesome photo 2" aria-hidden="true">
+        <img src="./assets/wholesomezdebanos3.jpg" alt="Wholesome photo 3" aria-hidden="true">
+        <img src="./assets/wholesomezdebanos4.jpg" alt="Wholesome photo 4" aria-hidden="true">
+    </div>
+</div>

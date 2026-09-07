@@ -8,10 +8,16 @@ title:
     <img src="./assets/chodcipozor.webp" alt="Image 2" style="width: 52%; height: auto;">
 </div>
 
+{% include slideshow.html %}
+
 # About me (in short)
 A student of graduate Cybernetics and robotics programme at FEE CTU in Prague.
+Currently enrolled at Purdue as an exchange student.
 
-Professional interrests: everything concerning low-level programming, HW design
+Deeply passionate about embedded development (firmware and PCB design as well)
+and real time operating systems, mostly NuttX. Professional interests
+include computer architectures, operating systems, control engineering
+and robotics.
 
 Personal interrests: skiing, Après-ski, weight lifting a bit, definitely your favorite beer drinking specialist.
 
