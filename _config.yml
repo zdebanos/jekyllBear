@@ -1,11 +1,11 @@
 ###########
 # site.title
 
-title: Personal page of Steve (zdebanos)
+title: zdebanos (Štěpán, Žděbán, Steve)
 email: pressste@fel.cvut.cz
 description: Student at FEE CTU
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
-url: "http://zdebanos.cz" # the base hostname & protocol for your site
+url: "https://zdebanos.cz" # the base hostname & protocol for your site
 # host: 0.0.0.0
 
 
