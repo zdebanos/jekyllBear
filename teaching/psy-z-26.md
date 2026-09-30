@@ -18,3 +18,7 @@ exported variables. [Slides](../../assets/PSY-Sem2.pdf)
 [Example 3 - exported variables, try to play around with exporting variables](../../assets//psy2-assets/skript3.sh)
 
 [Example 4 - using IFS](../../assets/psy2-assets/skript4.sh)
+
+[Exercise 3](../../assets/psy2-assets/reseni3.sh)
+
+[Exercise 4](../../assets/psy2-assets/reseni4.sh)
